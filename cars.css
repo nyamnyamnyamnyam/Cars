@@ -160,9 +160,7 @@ body {
 
     .header {
         width: calc(100% - 32px);
-
         max-width: 288px;
-
         padding: 12px;
     }
 
