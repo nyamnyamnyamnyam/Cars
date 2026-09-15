@@ -151,10 +151,6 @@ body {
 }
 
 
-/* ========================= */
-/* MOBIL */
-/* ========================= */
-
 @media (max-width: 480px) {
 
     .container {
@@ -173,23 +169,17 @@ body {
 
     .header h2 {
         margin: 0 0 18px 0;
-
         font-size: 22px;
-
         line-height: 1.08;
-
         text-align: center;
     }
 
 
-    /* 2 x 2 GOMB */
+
     .button-container {
         display: grid;
-
         grid-template-columns: repeat(2, 1fr);
-
         gap: 10px;
-
         width: 100%;
     }
 
